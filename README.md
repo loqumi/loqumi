@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/egor-kirdyapin-24449a261/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/loqumi">
+    <a href="https://t.me/react_frontend_dev">
       <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
@@ -18,7 +18,9 @@
   
 ### :man_technologist: About me
 
-*Commercial experience as Frontend Developer is 3+ years. Skilled at React, Vue, JavaScript, TypeScript, HTML, CSS and Node.js. Worked on various projects in video hosting, animation, web and mobile development. Focused on improving application scalability and maintenance.*
+*I’m a frontend developer with 5+ years experience of building web, Smart TV, e-commerce, and CRM applications. I work with React, TypeScript, Next.js, JavaScript, and Svelte.
+At Unico Play, I’ve worked on performance and stability improvements for streaming applications. Largest Contentful Paint decreased from 6.9–9.0s to 1.99s, web crash-free sessions increased to 98.5%, and Smart TV crash-free sessions increased to 99.4%. I’ve also contributed to modernizing a legacy codebase and moving applications toward a shared monorepo.
+Previously, I developed e-commerce features with React and Shopify Hydrogen and worked on a CRM system and page performance with Next.js.*
 
 ---
 
